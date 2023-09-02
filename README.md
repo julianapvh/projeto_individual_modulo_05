@@ -35,7 +35,7 @@ Para atingir os objetivos do projeto, foram seguidas as seguintes etapas:
 ## Visualizações Principais
 
 - **Dasboard**
-  ![Dashboard](images/Painel 1 (1).png)
+  ![Dashboard](images/dashboard.png)
 
 
 ## Conclusão
