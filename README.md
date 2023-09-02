@@ -1,56 +1,44 @@
 
 ![Projeto Individual Módulo 05](images/projeto_individual.jpg)
 
-
-
-
-# Análise de Razões de Saída de Funcionários - Projeto com Tableau
-
-Este repositório contém o projeto de análise de razões de saída de funcionários, realizado com o uso da ferramenta Tableau. O objetivo deste projeto é identificar as principais razões pelas quais os funcionários estão deixando a empresa, analisar seus impactos e sugerir possíveis soluções com base nos insights obtidos.
-
 ## Descrição do Projeto
 
 O projeto se concentra na análise de dados relacionados às razões de saída de funcionários da empresa, com foco em entender as categorias de motivos de saída, suas frequências e como eles impactam a organização. Além disso, busca-se propor soluções e ações para lidar com esses problemas e melhorar a retenção de funcionários.
 
 ## Estrutura do Projeto
 
-O projeto está estruturado da seguinte maneira:
+## Contexto
 
-- `data`: Contém o conjunto de dados utilizado para a análise.
-- - `images`: Contém a pasta com as imagens utilizadas no projeto e os gráficos
-- `notebooks`: Contém os notebooks utilizados para limpeza, análise exploratória e criação das visualizações no Tableau.
-- `visualizações`: Inclui as capturas de tela das visualizações criadas no Tableau.
+Neste projeto, fui contratado como analista de dados pelo Chief Marketing Officer (CMO) para trabalhar em conjunto com o Parceiro de Negócios de Recursos Humanos (HRBP). O objetivo principal era entender as razões por trás do atrito de funcionários - pessoas deixando a empresa - em toda a organização de marketing e apresentar descobertas e soluções.
 
-## Passos Realizados
+## Como Fazer
 
-1. **Exploração e Planejamento**: Leitura e compreensão da descrição do projeto, do conjunto de dados e do objetivo da análise.
+Para atingir os objetivos do projeto, foram seguidas as seguintes etapas:
 
-2. **Preparação dos Dados**: Importação dos dados no Tableau, limpeza e formatação necessárias.
+1. **Importação e Preparação de Dados**: Os dados foram importados do [conjunto de dados fornecido](https://raw.githubusercontent.com/julianapvh/projeto_individual_modulo_05/main/data/dados_tratados.csv) e passaram por processos de limpeza e modelagem, conforme necessário.
 
-3. **Análise Exploratória**: Exploração das diferentes categorias de razões de saída e suas relações.
+2. **Análise Exploratória**: Foi realizada uma análise exploratória dos dados, incluindo o uso de gráficos, métricas estatísticas e técnicas de visualização.
 
-4. **Criação de Visualizações**: Criação de gráficos de barras, gráficos de bolhas e gráficos de pizza no Tableau.
+3. **Criação de Visualizações**: Utilizei recursos gráficos e de visualização do Tableau para criar visualizações interativas que representam os dados de forma clara e informativa.
 
-5. **Identificação de Insights**: Identificação de insights relevantes sobre as razões de saída e seus impactos.
+4. **Criação de Dashboards**: Foram criados painéis de controle (dashboards) para acompanhar métricas-chave e identificar insights relevantes.
 
-6. **Sugestão de Soluções**: Proposição de possíveis soluções para lidar com as razões de saída identificadas.
-
-7. **Criação de Dashboard**: Criação de um painel de controle no Tableau com visualizações interativas.
-
-8. **Preparação de Narrativa**: Elaboração de uma narrativa clara e concisa que conta a história dos dados.
-
-9. **Documentação e Entrega**: Documentação de todo o processo e preparação da apresentação final.
-
-## Visualizações
-
-As visualizações criadas no Tableau estão disponíveis na pasta `visualizações` deste repositório.
-
-## Como Utilizar
-
-1. Clone este repositório para sua máquina local.
-2. Explore os notebooks na pasta `notebooks` para entender as etapas de análise.
-3. Visualize as capturas de tela das visualizações na pasta `visualizações`.
+5. **Narrativa dos Dados**: Uma narrativa clara e concisa foi criada para contar a história dos dados e fornecer recomendações e conclusões baseadas nas análises realizadas.
 
 
+## Estrutura do Projeto
 
-Este projeto foi realizado como parte do projeto de análise de dados usando o Tableau para compreender as razões de saída de funcionários da empresa e propor soluções relevantes.
+- O arquivo `analise_dados_tableau.twbx` contém o projeto Tableau com as visualizações e o dashboard criados.
+
+- O arquivo `projeto_individual_modulo_05.ipynb` contém o código Python usado para importar e preparar os dados, bem como criar o gráfico inicial.
+
+## Visualizações Principais
+
+- **Dasboard**
+  ![Dashboard](images/Painel 1 (1).png)
+
+
+## Conclusão
+
+Neste projeto, exploramos profundamente os dados relacionados às razões pelas quais os funcionários estão deixando nossa organização de marketing. Com base em análises sólidas, identificamos razões críticas de saída e fornecemos recomendações fundamentadas para melhorar a retenção de talentos e o ambiente de trabalho.
+
