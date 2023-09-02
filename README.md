@@ -17,9 +17,9 @@ O projeto se concentra na análise de dados relacionados às razões de saída d
 O projeto está estruturado da seguinte maneira:
 
 - `data`: Contém o conjunto de dados utilizado para a análise.
+- - `images`: Contém a pasta com as imagens utilizadas no projeto e os gráficos
 - `notebooks`: Contém os notebooks utilizados para limpeza, análise exploratória e criação das visualizações no Tableau.
-- `visualizations`: Inclui as capturas de tela das visualizações criadas no Tableau.
-- `presentation`: Contém a apresentação final do projeto, incluindo os principais insights, conclusões e recomendações.
+- `visualizações`: Inclui as capturas de tela das visualizações criadas no Tableau.
 
 ## Passos Realizados
 
@@ -43,18 +43,13 @@ O projeto está estruturado da seguinte maneira:
 
 ## Visualizações
 
-As visualizações criadas no Tableau estão disponíveis na pasta `visualizations` deste repositório.
-
-## Apresentação
-
-A apresentação final do projeto, incluindo os principais insights, conclusões e recomendações, está disponível na pasta `presentation`.
+As visualizações criadas no Tableau estão disponíveis na pasta `visualizações` deste repositório.
 
 ## Como Utilizar
 
 1. Clone este repositório para sua máquina local.
 2. Explore os notebooks na pasta `notebooks` para entender as etapas de análise.
-3. Visualize as capturas de tela das visualizações na pasta `visualizations`.
-4. Leia a apresentação final na pasta `presentation`.
+3. Visualize as capturas de tela das visualizações na pasta `visualizações`.
 
 
 
